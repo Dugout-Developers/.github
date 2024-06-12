@@ -1,12 +1,6 @@
 ## Catch Mate
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 프로젝트 소개
+> 개발 기간 : 2024.06.01 ~
+- 같은 팀을 응원하는 사람들을 만나 직관하고 싶은 혼직관러, 혹은 갑자기 땜빵난 티켓 자리를위한 사람들을 위한 KBO 직관 친구 구하기 APP
+- 이곳 저곳 여러 커뮤니티에 흩어져있던 야구 직관 친구 찾기를 한 곳으로 모을 수 있도록 도와주고, 각자의 응원 스타일에 맞는 친구를 찾아 Catch 할 수 있도록 도와주는 앱
